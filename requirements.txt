@@ -3,3 +3,4 @@ python-telegram-bot
 python-telegram-bot[job-queue]
 fastapi
 uvicorn
+md2tgmd
